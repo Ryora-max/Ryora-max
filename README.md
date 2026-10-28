@@ -34,9 +34,10 @@ lead → opportunity → implementasi → go-live → managed support.
 Peta pasar kerja analitik Indonesia dari **data riil** — Kalibrr API +
 LinkedIn guest API (bukan sintetis).
 
-- 1.890 lowongan di-fetch → 296 relevan → 594 baris skill terekstrak
-- 80% lowongan di DKI Jakarta · Excel & SQL 26% > Python 17% ·
-  remote <2% · gaji hanya tampil di 6% lowongan
+- 2.350 lowongan di-fetch → 472 relevan → 1.973 baris skill terekstrak
+- 79% lowongan di DKI Jakarta · dua platform dua pasar: Kalibrr
+  Excel-first (UKM) vs LinkedIn SQL/Python-first (enterprise) ·
+  remote ~1% · gaji hanya tampil di 4% lowongan
 - Scraping paginasi+dedup, dirty-data cleaning, dokumentasi keterbatasan
 
 ---
