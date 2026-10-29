@@ -28,17 +28,20 @@ lead → opportunity → implementasi → go-live → managed support.
   chi² p=1,4e-12), on-time go-live 59,9%, SLA 88,5%, delay predictor
 - Struktur grup, partner/vendor, dan talent pipeline terverifikasi sumber
 
-## 📈 3. Indonesia Analytics Job Market
+## 📈 3. Indonesia IT & Analytics Job Market
 **[indonesia-job-market-analysis](https://github.com/Ryora-max/indonesia-job-market-analysis)**
 
-Peta pasar kerja analitik Indonesia dari **data riil** — Kalibrr API +
-LinkedIn guest API (bukan sintetis).
+Peta pasar kerja digital Indonesia dari **data riil** — Kalibrr API +
+LinkedIn guest API (bukan sintetis): data/analytics, software
+engineering, infra/DevOps, security, QA, UI/UX, ERP & IT change.
 
-- 2.350 lowongan di-fetch → 472 relevan → 1.973 baris skill terekstrak
-- 79% lowongan di DKI Jakarta · dua platform dua pasar: Kalibrr
+- ~3.500 lowongan di-fetch → 1.524 relevan → ~5.900 baris skill
+  terekstrak · 8 domain pasar · 21 keluarga peran
+- 69% lowongan di DKI Jakarta · dua platform dua pasar: Kalibrr
   Excel-first (UKM) vs LinkedIn SQL/Python-first (enterprise) ·
-  remote ~1% · gaji hanya tampil di 4% lowongan
-- Scraping paginasi+dedup, dirty-data cleaning, dokumentasi keterbatasan
+  remote ~1% · gaji hanya tampil di 3% lowongan
+- Scraping paginasi+dedup+drip-throttle, dirty-data cleaning,
+  dokumentasi keterbatasan
 
 ---
 
