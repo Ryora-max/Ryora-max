@@ -35,7 +35,7 @@ Peta pasar kerja digital Indonesia dari **data riil** — Kalibrr API +
 LinkedIn guest API (bukan sintetis): data/analytics, software
 engineering, infra/DevOps, security, QA, UI/UX, ERP & IT change.
 
-- ~3.500 lowongan di-fetch → 1.524 relevan → ~5.900 baris skill
+- ~3.500 lowongan di-fetch → 1.630 relevan → ~6.900 baris skill
   terekstrak · 8 domain pasar · 21 keluarga peran
 - 69% lowongan di DKI Jakarta · dua platform dua pasar: Kalibrr
   Excel-first (UKM) vs LinkedIn SQL/Python-first (enterprise) ·
